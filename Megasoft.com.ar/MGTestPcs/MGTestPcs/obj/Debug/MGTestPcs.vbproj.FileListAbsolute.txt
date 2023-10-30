@@ -1,0 +1,39 @@
+C:\Users\AdministradorPC\source\repos\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.Form1.resources
+C:\Users\AdministradorPC\source\repos\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.Form2.resources
+C:\Users\AdministradorPC\source\repos\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.Form3.resources
+C:\Users\AdministradorPC\source\repos\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.Form4.resources
+C:\Users\AdministradorPC\source\repos\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.Form5.resources
+C:\Users\AdministradorPC\source\repos\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.Resources.resources
+C:\Users\AdministradorPC\source\repos\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.vbproj.GenerateResource.cache
+C:\Users\AdministradorPC\source\repos\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.vbproj.CoreCompileInputs.cache
+C:\Users\AdministradorPC\source\repos\MGTestPcs\MGTestPcs\bin\Debug\MGTestPcs.exe.config
+C:\Users\AdministradorPC\source\repos\MGTestPcs\MGTestPcs\bin\Debug\MGTestPcs.exe
+C:\Users\AdministradorPC\source\repos\MGTestPcs\MGTestPcs\bin\Debug\MGTestPcs.pdb
+C:\Users\AdministradorPC\source\repos\MGTestPcs\MGTestPcs\bin\Debug\MGTestPcs.xml
+C:\Users\AdministradorPC\source\repos\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.exe
+C:\Users\AdministradorPC\source\repos\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.xml
+C:\Users\AdministradorPC\source\repos\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.pdb
+C:\Users\AdministradorPC\source\repos\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.vbprojAssemblyReference.cache
+C:\Users\Mega04.MEGASERVER\Desktop\MGTestPcs (2)\MGTestPcs\MGTestPcs\bin\Debug\MGTestPcs.exe.config
+C:\Users\Mega04.MEGASERVER\Desktop\MGTestPcs (2)\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.exe
+C:\Users\Mega04.MEGASERVER\Desktop\MGTestPcs (2)\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.xml
+C:\Users\Mega04.MEGASERVER\Desktop\MGTestPcs (2)\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.pdb
+C:\Users\Mega04.MEGASERVER\Desktop\MGTestPcs (2)\MGTestPcs\MGTestPcs\bin\Debug\MGTestPcs.exe
+C:\Users\Mega04.MEGASERVER\Desktop\MGTestPcs (2)\MGTestPcs\MGTestPcs\bin\Debug\MGTestPcs.pdb
+C:\Users\Mega04.MEGASERVER\Desktop\MGTestPcs (2)\MGTestPcs\MGTestPcs\bin\Debug\MGTestPcs.xml
+C:\Users\Mega04.MEGASERVER\Desktop\MGTestPcs (2)\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.Form1.resources
+C:\Users\Mega04.MEGASERVER\Desktop\MGTestPcs (2)\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.Resources.resources
+C:\Users\Mega04.MEGASERVER\Desktop\MGTestPcs (2)\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.vbproj.GenerateResource.Cache
+C:\Users\Mega04.MEGASERVER\Desktop\MGTestPcs (2)\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.vbprojResolveAssemblyReference.cache
+C:\Users\Mega04.MEGASERVER\Desktop\Megasoft.com.ar\MGTestPcs\MGTestPcs\bin\Debug\MGTestPcs.exe.config
+C:\Users\Mega04.MEGASERVER\Desktop\Megasoft.com.ar\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.exe
+C:\Users\Mega04.MEGASERVER\Desktop\Megasoft.com.ar\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.xml
+C:\Users\Mega04.MEGASERVER\Desktop\Megasoft.com.ar\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.pdb
+C:\Users\Mega04.MEGASERVER\Desktop\Megasoft.com.ar\MGTestPcs\MGTestPcs\bin\Debug\MGTestPcs.exe
+C:\Users\Mega04.MEGASERVER\Desktop\Megasoft.com.ar\MGTestPcs\MGTestPcs\bin\Debug\MGTestPcs.pdb
+C:\Users\Mega04.MEGASERVER\Desktop\Megasoft.com.ar\MGTestPcs\MGTestPcs\bin\Debug\MGTestPcs.xml
+C:\Users\Mega04.MEGASERVER\Desktop\Megasoft.com.ar\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.vbprojResolveAssemblyReference.cache
+C:\Users\Mega04.MEGASERVER\Desktop\Megasoft.com.ar\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.Resources.resources
+C:\Users\Mega04.MEGASERVER\Desktop\Megasoft.com.ar\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.vbproj.GenerateResource.Cache
+C:\Users\Mega04.MEGASERVER\Desktop\Megasoft.com.ar\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.frmPrincipal.resources
+C:\Users\Mega04.MEGASERVER\Desktop\Megasoft.com.ar\MGTestPcs\MGTestPcs\obj\Debug\MGTestPcs.frmRequisitos.resources
